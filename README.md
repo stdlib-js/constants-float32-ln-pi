@@ -158,6 +158,7 @@ Macro for the natural logarithm of the mathematical constant [π][pi] as a singl
 ## See Also
 
 -   <span class="package-name">[`@stdlib/constants-float32/pi`][@stdlib/constants/float32/pi]</span><span class="delimiter">: </span><span class="description">π.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/ln-pi`][@stdlib/constants/float64/ln-pi]</span><span class="delimiter">: </span><span class="description">natural logarithm of π.</span>
 
 </section>
 
@@ -240,6 +241,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 <!-- <related-links> -->
 
 [@stdlib/constants/float32/pi]: https://github.com/stdlib-js/constants-float32-pi
+
+[@stdlib/constants/float64/ln-pi]: https://github.com/stdlib-js/constants-float64-ln-pi
 
 <!-- </related-links> -->
 
