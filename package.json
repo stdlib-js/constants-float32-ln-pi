@@ -36,11 +36,11 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/utils-library-manifest": "^0.2.3"
+    "@stdlib/utils-library-manifest": "^0.2.4"
   },
   "devDependencies": {
-    "@stdlib/constants-float32-pi": "^0.1.0",
-    "@stdlib/math-base-special-lnf": "^0.0.3",
+    "@stdlib/constants-float32-pi": "^0.1.1",
+    "@stdlib/math-base-special-lnf": "^0.0.4",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
